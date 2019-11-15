@@ -1,30 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.aacbcb41.chunk.css",
-    "main.js": "/static/js/main.7b40e611.chunk.js",
-    "main.js.map": "/static/js/main.7b40e611.chunk.js.map",
+    "main.js": "/static/js/main.e40dd7cd.chunk.js",
+    "main.js.map": "/static/js/main.e40dd7cd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bd522d66.js",
     "runtime-main.js.map": "/static/js/runtime-main.bd522d66.js.map",
-    "static/css/2.5d9d8179.chunk.css": "/static/css/2.5d9d8179.chunk.css",
-    "static/js/2.059f814a.chunk.js": "/static/js/2.059f814a.chunk.js",
-    "static/js/2.059f814a.chunk.js.map": "/static/js/2.059f814a.chunk.js.map",
-    "css/antd-fixes.css": "/css/antd-fixes.css",
-    "css/base.css": "/css/base.css",
-    "css/bootstrap.min.css": "/css/bootstrap.min.css",
-    "css/invoice-preview.css": "/css/invoice-preview.css",
-    "images/digid-works-logo-small-bw.svg": "/images/digid-works-logo-small-bw.svg",
-    "images/digid-works-logo.png": "/images/digid-works-logo.png",
+    "static/css/2.27e0aa0a.chunk.css": "/static/css/2.27e0aa0a.chunk.css",
+    "static/js/2.c02bad83.chunk.js": "/static/js/2.c02bad83.chunk.js",
+    "static/js/2.c02bad83.chunk.js.map": "/static/js/2.c02bad83.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3a2c5f36b07cecef50e4e667033df55a.js": "/precache-manifest.3a2c5f36b07cecef50e4e667033df55a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.5d9d8179.chunk.css.map": "/static/css/2.5d9d8179.chunk.css.map",
+    "precache-manifest.70b80868bb70cc0d8be9ca1561a21b47.js": "/precache-manifest.70b80868bb70cc0d8be9ca1561a21b47.js",
+    "static/css/2.27e0aa0a.chunk.css.map": "/static/css/2.27e0aa0a.chunk.css.map",
     "static/css/main.aacbcb41.chunk.css.map": "/static/css/main.aacbcb41.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.bd522d66.js",
-    "static/css/2.5d9d8179.chunk.css",
-    "static/js/2.059f814a.chunk.js",
+    "static/css/2.27e0aa0a.chunk.css",
+    "static/js/2.c02bad83.chunk.js",
     "static/css/main.aacbcb41.chunk.css",
-    "static/js/main.7b40e611.chunk.js"
+    "static/js/main.e40dd7cd.chunk.js"
   ]
 }
