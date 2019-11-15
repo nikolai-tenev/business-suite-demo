@@ -1,0 +1,40 @@
+body {
+	/*blue*/
+	/*background: radial-gradient(ellipse at center, rgba(18, 61, 83, 0.8) 0%, rgba(10, 33, 45, 0.85) 100%), url("/images/digid-works-logo-small-bw.svg") center center no-repeat;*/
+	/*background: radial-gradient(ellipse at center, rgba(24, 79, 108, 0.8) 0%, rgba(10, 33, 45, 1) 100%), url("/images/digid-works-logo-small-bw.svg") center center no-repeat;*/
+	/*background: radial-gradient(ellipse at center, rgba(177, 196, 205, 0.8) 0%, rgba(97, 135, 155, 1) 100%), url("/images/digid-works-logo-small-bw.svg") center center no-repeat;*/
+	/*background: radial-gradient(ellipse at center, rgba(144, 134, 140, 0.8) 0%, rgba(74, 58, 68, 1) 100%), url("/images/digid-works-logo-small-bw.svg") center center no-repeat;*/
+
+	/*green*/
+	background: radial-gradient(ellipse at center, rgba(15, 69, 60, 0.8) 0%, rgba(10, 47, 42, 0.85) 100%) fixed, url("/images/digid-works-logo-small-bw.svg") center center no-repeat fixed;
+}
+
+#root {
+	height: 100vh;
+	min-height: 100%;
+	font-weight: 500;
+}
+
+.v-h-centered-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+	width: 100%;
+}
+
+.label {
+	font-weight: 700;
+	margin-bottom: .5em;
+	display: inline-block;
+}
+
+.logout svg {
+	/*color: #ca4c2c;*/
+	/*filter: drop-shadow(0px 0px 4px #ca4c2c);*/
+}
+
+.logout:hover svg {
+	color: #ca4c2c;
+	filter: drop-shadow(0px 0px 4px #ff8d70);
+}

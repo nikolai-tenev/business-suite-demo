@@ -1,0 +1,105 @@
+#invoice {
+	padding: 2.75rem;
+	font-family: 'IBM Plex Sans', sans-serif;
+	color: #4a3a44;
+
+	min-width: 400px;
+	overflow-x: auto;
+	font-weight: normal;
+}
+
+#invoice h1, #invoice h2, #invoice h3, #invoice h4 {
+	font-weight: 400;
+	line-height: 1.2;
+	color: #4a3a44;
+	font-family: 'Montserrat', sans-serif;
+	margin: 0;
+}
+
+#invoice h1 {
+	font-size: 1.75rem;
+}
+
+#invoice h2 {
+	font-size: 1.75rem;
+}
+
+#invoice h3 {
+	font-size: 1.25rem;
+}
+
+#invoice h4, .smaller-heading {
+	font-size: 1.05rem;
+}
+
+#invoice h5 {
+	font-size: .95rem;
+}
+
+#invoice p {
+	margin: 0;
+}
+
+#brand {
+	font-size: 1.35rem;
+	margin-left: auto;
+}
+
+#invoice-number {
+	margin-top: 20px;
+}
+
+.translation {
+	border-bottom: 1px dashed #b7b1b5;
+	display: inline-block;
+}
+
+.invoice-section {
+	margin-top: 35px;
+}
+
+.company-header {
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.company-info-row {
+	text-align: right;
+	padding-right: 10px;
+}
+
+.details-box-title, .ant-col.details-box-title {
+	width: auto;
+	padding-right: 15px;
+}
+
+.details-box-table {
+	padding: 10px;
+}
+
+#invoice .signature {
+	margin-bottom: 10px;
+}
+
+#invoice table {
+	width: 100%;
+	max-width: 100%;
+	margin-bottom: 20px;
+	background-color: transparent;
+}
+
+#invoice table th, #invoice table td {
+	vertical-align: middle;
+	padding: 5px;
+	border-bottom: 1px solid #e2dfe1;
+}
+
+#invoice-controls {
+	margin: 2rem 0;
+	min-width: 400px;
+	overflow-x: auto;
+}
+
+#invoice.ant-card {
+	background: #fff;
+}
