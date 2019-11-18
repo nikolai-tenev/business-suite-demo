@@ -199,6 +199,10 @@ body .ant-calendar-date:hover {
 	color: #25a981;
 }
 
+body .ant-statistic-content {
+	filter: drop-shadow(0px 0px 4px rgba(0, 0, 0, 0.5));
+}
+
 body .ant-calendar,
 body .ant-calendar-month-panel,
 body .ant-calendar-year-panel,
