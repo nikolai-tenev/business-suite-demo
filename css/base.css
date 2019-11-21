@@ -1,12 +1,9 @@
 body {
-	/*blue*/
-	/*background: radial-gradient(ellipse at center, rgba(18, 61, 83, 0.8) 0%, rgba(10, 33, 45, 0.85) 100%), url("/images/digid-works-logo-small-bw.svg") center center no-repeat;*/
-	/*background: radial-gradient(ellipse at center, rgba(24, 79, 108, 0.8) 0%, rgba(10, 33, 45, 1) 100%), url("/images/digid-works-logo-small-bw.svg") center center no-repeat;*/
-	/*background: radial-gradient(ellipse at center, rgba(177, 196, 205, 0.8) 0%, rgba(97, 135, 155, 1) 100%), url("/images/digid-works-logo-small-bw.svg") center center no-repeat;*/
-	/*background: radial-gradient(ellipse at center, rgba(144, 134, 140, 0.8) 0%, rgba(74, 58, 68, 1) 100%), url("/images/digid-works-logo-small-bw.svg") center center no-repeat;*/
+	/*teal*/
+	/*background: radial-gradient(ellipse at center, rgba(15, 69, 60, 0.8) 0%, rgba(10, 47, 42, 0.85) 100%) fixed, url("/images/digid-works-logo-small-bw.svg") center center no-repeat fixed;*/
 
-	/*green*/
-	background: radial-gradient(ellipse at center, rgba(15, 69, 60, 0.8) 0%, rgba(10, 47, 42, 0.85) 100%) fixed, url("/images/digid-works-logo-small-bw.svg") center center no-repeat fixed;
+	/*lime*/
+	background: radial-gradient(ellipse at center, rgba(50, 69, 16, 0.8) 0%, rgba(57, 68, 15, 0.85) 100%) fixed, url("/images/digid-works-logo-small-bw.svg") center center no-repeat fixed;
 }
 
 #root {
@@ -80,4 +77,10 @@ body {
 
 .application-header {
 	padding: 5px 20px;
+}
+
+.slogan-regular-text {
+	color: #f9f9f9;
+	font-size: 1.2rem;
+	padding-right: 5px;
 }

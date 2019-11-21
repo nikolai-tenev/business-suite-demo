@@ -1,0 +1,186 @@
+body.theme-light {
+	/*teal*/
+	/*background: radial-gradient(ellipse at center, rgba(15, 69, 60, 0.8) 0%, rgba(10, 47, 42, 0.85) 100%) fixed, url("/images/digid-works-logo-small-bw.svg") center center no-repeat fixed;*/
+
+	/*lime*/
+	/*background: radial-gradient(ellipse at center, rgba(250, 249, 249, 0.8) 0%, rgba(236, 255, 228, 0.85) 100%) fixed, url("/images/digid-works-logo-small-bw.svg") center center no-repeat fixed;*/
+
+	/*grey*/
+	background: radial-gradient(ellipse at center, rgba(250, 249, 249, 0.8) 0%, rgba(250, 249, 249, 0.85) 100%) fixed, url("/images/digid-works-logo-small-bw.svg") center center no-repeat fixed;
+	color: #33450f;
+}
+
+body.theme-light .application-container .sidebar {
+	filter: none;
+}
+
+body.theme-light .ant-menu-dark,
+body.theme-light .ant-menu-dark .ant-menu-sub,
+body.theme-light .ant-menu-dark .ant-menu-item,
+body.theme-light .ant-menu-dark .ant-menu-item-group-title,
+body.theme-light .ant-menu-dark .ant-menu-item > a,
+body.theme-light .ant-breadcrumb a,
+body.theme-light .ant-breadcrumb > span:last-child,
+body.theme-light .ant-breadcrumb-separator,
+body.theme-light .ant-menu-dark .ant-menu-item-selected .anticon,
+body.theme-light .ant-menu-dark .ant-menu-item:hover,
+body.theme-light .ant-menu-dark .ant-menu-item-active,
+body.theme-light .ant-menu-dark .ant-menu-submenu-active,
+body.theme-light .ant-menu-dark .ant-menu-submenu-open,
+body.theme-light .ant-menu-dark .ant-menu-submenu-selected,
+body.theme-light .ant-menu-dark .ant-menu-submenu-title:hover,
+body.theme-light .ant-select-selection,
+body.theme-light .ant-card,
+body.theme-light .ant-card-head,
+body.theme-light .ant-select-arrow,
+body.theme-light .ant-tooltip-inner,
+body.theme-light .ant-select-dropdown-menu-item,
+body.theme-light h1, body.theme-light h2, body.theme-light h3, body.theme-light h4, body.theme-light h5, body.theme-light h6,
+body.theme-light .ant-statistic-content,
+body.theme-light .ant-input,
+body.theme-light .ant-input::placeholder,
+body.theme-light .ant-input-number,
+body.theme-light .ant-input-number::placeholder,
+body.theme-light .ant-table,
+body.theme-light .ant-table-thead > tr > th,
+body.theme-light .ant-table-thead > tr > th .ant-table-column-sorter .ant-table-column-sorter-inner .ant-table-column-sorter-up.on,
+body.theme-light .ant-table-thead > tr > th .ant-table-column-sorter .ant-table-column-sorter-inner .ant-table-column-sorter-down.on,
+body.theme-light .ant-input-affix-wrapper .ant-input-prefix,
+body.theme-light .ant-input-affix-wrapper .ant-input-suffix,
+body.theme-light .ant-input-search-icon,
+body.theme-light .ant-calendar-input,
+body.theme-light .ant-calendar-header .ant-calendar-century-select,
+body.theme-light .ant-calendar-header .ant-calendar-decade-select,
+body.theme-light .ant-calendar-header .ant-calendar-year-select,
+body.theme-light .ant-calendar-header .ant-calendar-month-select,
+body.theme-light .ant-calendar-picker-container,
+body.theme-light .ant-calendar-date,
+body.theme-light .ant-calendar-month-panel-month,
+body.theme-light .ant-calendar-year-panel-year,
+body.theme-light .ant-calendar-decade-panel-decade,
+body.theme-light .ant-calendar-month-panel-header .ant-calendar-month-panel-century-select,
+body.theme-light .ant-calendar-month-panel-header .ant-calendar-month-panel-decade-select,
+body.theme-light .ant-calendar-month-panel-header .ant-calendar-month-panel-year-select,
+body.theme-light .ant-calendar-month-panel-header .ant-calendar-month-panel-month-select,
+body.theme-light .ant-calendar-year-panel-header .ant-calendar-year-panel-century-select,
+body.theme-light .ant-calendar-year-panel-header .ant-calendar-year-panel-decade-select,
+body.theme-light .ant-calendar-year-panel-header .ant-calendar-year-panel-year-select,
+body.theme-light .ant-calendar-year-panel-header .ant-calendar-year-panel-month-select,
+body.theme-light .ant-calendar-date:hover,
+body.theme-light .ant-calendar-header a:hover,
+body.theme-light .ant-modal,
+body.theme-light .ant-modal-title,
+body.theme-light .ant-popover-message,
+body.theme-light .ant-message,
+body.theme-light .ant-layout-footer,
+body.theme-light .slogan-regular-text,
+body.theme-light .ant-statistic-title {
+	color: #33450f;
+}
+
+body.theme-light .ant-menu-dark .ant-menu-item:hover > .ant-menu-submenu-title > .ant-menu-submenu-arrow::after,
+body.theme-light .ant-menu-dark .ant-menu-item-active > .ant-menu-submenu-title > .ant-menu-submenu-arrow::after,
+body.theme-light .ant-menu-dark .ant-menu-submenu-active > .ant-menu-submenu-title > .ant-menu-submenu-arrow::after,
+body.theme-light .ant-menu-dark .ant-menu-submenu-open > .ant-menu-submenu-title > .ant-menu-submenu-arrow::after,
+body.theme-light .ant-menu-dark .ant-menu-submenu-selected > .ant-menu-submenu-title > .ant-menu-submenu-arrow::after,
+body.theme-light .ant-menu-dark .ant-menu-submenu-title:hover > .ant-menu-submenu-title > .ant-menu-submenu-arrow::after,
+body.theme-light .ant-menu-dark .ant-menu-item:hover > .ant-menu-submenu-title:hover > .ant-menu-submenu-arrow::after,
+body.theme-light .ant-menu-dark .ant-menu-item-active > .ant-menu-submenu-title:hover > .ant-menu-submenu-arrow::after,
+body.theme-light .ant-menu-dark .ant-menu-submenu-active > .ant-menu-submenu-title:hover > .ant-menu-submenu-arrow::after,
+body.theme-light .ant-menu-dark .ant-menu-submenu-open > .ant-menu-submenu-title:hover > .ant-menu-submenu-arrow::after,
+body.theme-light .ant-menu-dark .ant-menu-submenu-selected > .ant-menu-submenu-title:hover > .ant-menu-submenu-arrow::after,
+body.theme-light .ant-menu-dark .ant-menu-submenu-title:hover > .ant-menu-submenu-title:hover > .ant-menu-submenu-arrow::after,
+body.theme-light .ant-menu-dark .ant-menu-item:hover > .ant-menu-submenu-title > .ant-menu-submenu-arrow::before,
+body.theme-light .ant-menu-dark .ant-menu-item-active > .ant-menu-submenu-title > .ant-menu-submenu-arrow::before,
+body.theme-light .ant-menu-dark .ant-menu-submenu-active > .ant-menu-submenu-title > .ant-menu-submenu-arrow::before,
+body.theme-light .ant-menu-dark .ant-menu-submenu-open > .ant-menu-submenu-title > .ant-menu-submenu-arrow::before,
+body.theme-light .ant-menu-dark .ant-menu-submenu-selected > .ant-menu-submenu-title > .ant-menu-submenu-arrow::before,
+body.theme-light .ant-menu-dark .ant-menu-submenu-title:hover > .ant-menu-submenu-title > .ant-menu-submenu-arrow::before,
+body.theme-light .ant-menu-dark .ant-menu-item:hover > .ant-menu-submenu-title:hover > .ant-menu-submenu-arrow::before,
+body.theme-light .ant-menu-dark .ant-menu-item-active > .ant-menu-submenu-title:hover > .ant-menu-submenu-arrow::before,
+body.theme-light .ant-menu-dark .ant-menu-submenu-active > .ant-menu-submenu-title:hover > .ant-menu-submenu-arrow::before,
+body.theme-light .ant-menu-dark .ant-menu-submenu-open > .ant-menu-submenu-title:hover > .ant-menu-submenu-arrow::before,
+body.theme-light .ant-menu-dark .ant-menu-submenu-selected > .ant-menu-submenu-title:hover > .ant-menu-submenu-arrow::before,
+body.theme-light .ant-menu-dark .ant-menu-submenu-title:hover > .ant-menu-submenu-title:hover > .ant-menu-submenu-arrow::before {
+	background: #33450f;
+}
+
+body.theme-light .ant-menu-dark .ant-menu-submenu-title .ant-menu-submenu-arrow::after,
+body.theme-light .ant-menu-dark .ant-menu-sub .ant-menu-submenu-title .ant-menu-submenu-arrow::after,
+body.theme-light .ant-menu-dark .ant-menu-submenu-title .ant-menu-submenu-arrow::before,
+body.theme-light .ant-menu-dark .ant-menu-sub .ant-menu-submenu-title .ant-menu-submenu-arrow::before {
+	background: #33450f;
+}
+
+body.theme-light .ant-card,
+body.theme-light .ant-tooltip-inner,
+body.theme-light .ant-tooltip-arrow::before,
+body.theme-light .ant-calendar,
+body.theme-light .ant-calendar-month-panel,
+body.theme-light .ant-calendar-year-panel,
+body.theme-light .ant-calendar-decade-panel,
+body.theme-light .ant-modal-content,
+body.theme-light .ant-popover-inner,
+body.theme-light .ant-message-notice-content {
+	background-color: rgba(236, 239, 229, 0.95);
+}
+
+body.theme-light .ant-tooltip-inner,
+body.theme-light .ant-popover-inner,
+body.theme-light .ant-message-notice-content {
+	-webkit-box-shadow: 0 2px 8px rgba(51, 69, 15, 0.15);
+	box-shadow: 0 2px 8px rgba(51, 69, 15, 0.15);
+}
+
+body.theme-light .ant-statistic-content {
+	filter: none;
+}
+
+body.theme-light .ant-input-group-addon {
+	background-color: rgba(51, 69, 15, 0.8);
+}
+
+body.theme-light .ant-table-thead > tr > th,
+body.theme-light .ant-input,
+body.theme-light .ant-input-number,
+body.theme-light .ant-select-selection,
+body.theme-light .ant-select-dropdown,
+body.theme-light .ant-calendar-selected-day .ant-calendar-date,
+body.theme-light .ant-calendar-date:hover,
+body.theme-light .ant-calendar-month-panel-selected-cell .ant-calendar-month-panel-month,
+body.theme-light .ant-calendar-date:hover,
+body.theme-light .ant-calendar-header a:hover,
+body.theme-light .ant-calendar-year-panel-selected-cell .ant-calendar-year-panel-year,
+body.theme-light .ant-calendar-decade-panel-selected-cell .ant-calendar-decade-panel-decade {
+	background: rgba(33, 72, 16, 0.2);
+}
+
+body.theme-light .ant-table-thead > tr > th.ant-table-column-has-actions.ant-table-column-has-sorters:hover {
+	background: rgba(33, 72, 16, 0.3);
+}
+
+body.theme-light .ant-input,
+body.theme-light .ant-input-number {
+	font-weight: 500;
+}
+
+body.theme-light .ant-table-thead > tr.ant-table-row-hover:not(.ant-table-expanded-row):not(.ant-table-row-selected) > td,
+body.theme-light .ant-table-tbody > tr.ant-table-row-hover:not(.ant-table-expanded-row):not(.ant-table-row-selected) > td,
+body.theme-light .ant-table-thead > tr:hover:not(.ant-table-expanded-row):not(.ant-table-row-selected) > td,
+body.theme-light .ant-table-tbody > tr:hover:not(.ant-table-expanded-row):not(.ant-table-row-selected) > td,
+body.theme-light tr.ant-table-expanded-row,
+body.theme-light tr.ant-table-expanded-row:hover {
+	background: rgba(33, 72, 16, 0.1);
+}
+
+body.theme-light .ant-calendar-picker-clear {
+	color: #ecefe5;
+	background-color: #C3CDBB;
+}
+
+body.theme-light .ant-popover-placement-top > .ant-popover-content > .ant-popover-arrow,
+body.theme-light .ant-popover-placement-topLeft > .ant-popover-content > .ant-popover-arrow,
+body.theme-light .ant-popover-placement-topRight > .ant-popover-content > .ant-popover-arrow {
+	border-right-color: rgba(236, 239, 229, 0.95);
+	border-bottom-color: rgba(236, 239, 229, 0.95);
+}
