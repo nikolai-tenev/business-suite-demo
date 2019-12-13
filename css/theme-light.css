@@ -121,7 +121,8 @@ body.theme-light .ant-calendar-year-panel,
 body.theme-light .ant-calendar-decade-panel,
 body.theme-light .ant-modal-content,
 body.theme-light .ant-popover-inner,
-body.theme-light .ant-message-notice-content {
+body.theme-light .ant-message-notice-content,
+body.theme-light .ant-select-dropdown {
 	background-color: rgba(236, 239, 229, 0.95);
 }
 
@@ -144,7 +145,6 @@ body.theme-light .ant-table-thead > tr > th,
 body.theme-light .ant-input,
 body.theme-light .ant-input-number,
 body.theme-light .ant-select-selection,
-body.theme-light .ant-select-dropdown,
 body.theme-light .ant-calendar-selected-day .ant-calendar-date,
 body.theme-light .ant-calendar-date:hover,
 body.theme-light .ant-calendar-month-panel-selected-cell .ant-calendar-month-panel-month,
@@ -183,4 +183,18 @@ body.theme-light .ant-popover-placement-topLeft > .ant-popover-content > .ant-po
 body.theme-light .ant-popover-placement-topRight > .ant-popover-content > .ant-popover-arrow {
 	border-right-color: rgba(236, 239, 229, 0.95);
 	border-bottom-color: rgba(236, 239, 229, 0.95);
+}
+
+/* if backdrop support: very transparent and blurred */
+@supports ((-webkit-backdrop-filter: blur(15px)) or (backdrop-filter: blur(15px))) {
+	body.theme-light .ant-select-dropdown,
+	body.theme-light .ant-calendar {
+		background-color: rgba(236, 239, 229, 0.3);
+	}
+
+	body.theme-light .ant-calendar-month-panel,
+	body.theme-light .ant-calendar-year-panel,
+	body.theme-light .ant-calendar-decade-panel {
+		background-color: rgba(236, 239, 229, 0.85);
+	}
 }

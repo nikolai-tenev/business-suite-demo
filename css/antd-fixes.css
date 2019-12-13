@@ -57,6 +57,11 @@ body .ant-table-thead > tr > th .ant-table-column-sorter .ant-table-column-sorte
 	color: #32e756;
 }
 
+body .ant-table-thead > tr > th {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
 body .ant-input:focus {
 	border-color: #32e756;
 }
