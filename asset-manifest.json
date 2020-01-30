@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.70711e61.chunk.css",
-    "main.js": "/static/js/main.73c524a6.chunk.js",
+    "main.js": "/static/js/main.3204604f.chunk.js",
     "main.css.map": "/static/css/main.70711e61.chunk.css.map",
-    "main.js.map": "/static/js/main.73c524a6.chunk.js.map",
+    "main.js.map": "/static/js/main.3204604f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.16218f16.js",
     "runtime-main.js.map": "/static/js/runtime-main.16218f16.js.map",
     "static/css/2.d0562cb8.chunk.css": "/static/css/2.d0562cb8.chunk.css",
-    "static/js/2.622909d0.chunk.js": "/static/js/2.622909d0.chunk.js",
+    "static/js/2.4c2b8977.chunk.js": "/static/js/2.4c2b8977.chunk.js",
     "static/css/2.d0562cb8.chunk.css.map": "/static/css/2.d0562cb8.chunk.css.map",
-    "static/js/2.622909d0.chunk.js.map": "/static/js/2.622909d0.chunk.js.map",
+    "static/js/2.4c2b8977.chunk.js.map": "/static/js/2.4c2b8977.chunk.js.map",
     "css/antd-fixes.css": "/css/antd-fixes.css",
     "css/base.css": "/css/base.css",
     "css/bootstrap.min.css": "/css/bootstrap.min.css",
@@ -18,14 +18,14 @@
     "images/digid-works-logo-small-bw.svg": "/images/digid-works-logo-small-bw.svg",
     "images/digid-works-logo.png": "/images/digid-works-logo.png",
     "index.html": "/index.html",
-    "precache-manifest.fc916fd18afa8ca8b7c588d93112dcbe.js": "/precache-manifest.fc916fd18afa8ca8b7c588d93112dcbe.js",
+    "precache-manifest.fb4360c1e99807bc6dda2fe161f8cf0b.js": "/precache-manifest.fb4360c1e99807bc6dda2fe161f8cf0b.js",
     "service-worker.js": "/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.16218f16.js",
     "static/css/2.d0562cb8.chunk.css",
-    "static/js/2.622909d0.chunk.js",
+    "static/js/2.4c2b8977.chunk.js",
     "static/css/main.70711e61.chunk.css",
-    "static/js/main.73c524a6.chunk.js"
+    "static/js/main.3204604f.chunk.js"
   ]
 }
